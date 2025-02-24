@@ -3,7 +3,7 @@
 ## 🎯 About Me  
 - Developer with a passion for **frontend, backend, and database development**.  
 - 🎓 **Junior Software Developer** specializing in **.NET** with experience in **C#**.  
-- 🌱 Currently expanding my skills in **SvelteKit**, **TypeScript**, and **React**.
+- 🌱 Currently expanding my skills in **SvelteKit**, **TypeScript**, **React**, **supabase** & **Docker**.
 - Github from school. https://github.com/Glind99
 
 ## 🌐 Find Me Online  
