@@ -3,7 +3,7 @@
 ## 🎯 About Me  
 - Developer with a passion for **frontend, backend, and database development**.  
 - 🎓 **Junior Software Developer** specializing in **.NET** with experience in **C#**.  
-- 🌱 Currently expanding my skills in **SvelteKit**, **TypeScript**, **React**, **supabase** & **Docker**.
+- 🌱 Currently expanding my skills in **ASP .NET MVC**, **SvelteKit**, **TypeScript**, **React**, **supabase** & **Docker**.
 
 ## 🌐 Find Me Online  
 - **LinkedIn:** [Gustav Lind](https://www.linkedin.com/in/gustav-lind-a27bb9200/)  
