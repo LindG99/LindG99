@@ -2,7 +2,8 @@
 
 ## 🎯 About Me  
 - Developer with a passion for **frontend, backend, and database development**.  
-- 🎓 **Junior Software Developer**  
+- 🎓 **Junior Software Developer**
+- 🌱 Currently working on Klinivera project.
 - 🌱 Currently expanding my skills in **Flutter**, **Linux**, **TypeScript**, & **Docker**.
 
 ## 🌐 Find Me Online  
